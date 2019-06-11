@@ -1,6 +1,6 @@
 # My Reads Project
-The goal of this project is to create components, features and interact with books from an API server using React.
-These features must use react routing, must handle states for each book in the shelf, consume an API to search on the database and create a copy with a modified version with the shelf selected. All the data modified must persist and be presented if the page is refreshed.
+The goal of this project is to create components, features and interact with books from an API using React.
+These features must use react routing, must handle states for each book in the shelf, get from the API to search on the database and create a copy with a modified version with the shelf selected. All the data modified must persist and be presented if the page is refreshed.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ These features must use react routing, must handle states for each book in the s
 3. Type "npm start" to serve the page on `http://localhost:3000`.
 
 ## Features Developed
-Udacity provided the the API and most of the work was to implement and create the interaction with it using React.
+Udacity provided the API and most of the work was to implement and create the interaction with it using React.
 
 Most of the activities were:
 - Components
